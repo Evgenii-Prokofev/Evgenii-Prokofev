@@ -27,7 +27,7 @@ I've been learning to code in [Hexlet](https://ru.hexlet.io) since 2023, after s
    </p>
 
    *   ### My CV:
-   - [https://cv.hexlet.io/resumes/3561](https://cv.hexlet.io/resumes/3561)
+   - [https://cv.hexlet.io/ru/resumes/3561](https://cv.hexlet.io/ru/resumes/3561)
     
    *   ### My Portfolio:
    - [Brain-Games](https:/github.com/Evgenii-Prokofev/Brain-Games) - A console game consisting of a set of 5 mathematical problems that the player needs to solve.
