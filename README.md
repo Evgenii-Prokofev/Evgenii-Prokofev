@@ -31,7 +31,7 @@ I've been learning to code in [Hexlet](https://ru.hexlet.io) since 2023, after s
     
    *   ### My Portfolio:
    - [Brain-Games](https:/Evgenii-Prokofev/Brain-Games) - A console game consisting of a set of 5 mathematical problems that the player needs to solve.
-   - [Difference-Calculator](https:/github.com/Evgenii-Prokofev/Difference-Calculator) - A console utility that compares two files in JSON or YAML format and finds differences between them.
+   - [Difference-Calculator](https:/Evgenii-Prokofev/Difference-Calculator) - A console utility that compares two files in JSON or YAML format and finds differences between them.
 
 *   ### Badges
 
