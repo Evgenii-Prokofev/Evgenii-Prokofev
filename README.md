@@ -30,7 +30,7 @@ I've been learning to code in [Hexlet](https://ru.hexlet.io) since 2023, after s
    - [https://cv.hexlet.io/ru/resumes/3561](https://cv.hexlet.io/ru/resumes/3561)
     
    *   ### My Portfolio:
-   - [Brain-Games](https:/github.com/Evgenii-Prokofev/Brain-Games) - A console game consisting of a set of 5 mathematical problems that the player needs to solve.
+   - [Brain-Games](https:/Evgenii-Prokofev/Brain-Games) - A console game consisting of a set of 5 mathematical problems that the player needs to solve.
    - [Difference-Calculator](https:/github.com/Evgenii-Prokofev/Difference-Calculator) - A console utility that compares two files in JSON or YAML format and finds differences between them.
 
 *   ### Badges
