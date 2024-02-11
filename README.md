@@ -26,6 +26,10 @@ I've been learning to code for 1 years, after switching careers. I'm on my way t
                     </a>
    </p>
 
+   *   ### My Portfolio:
+   - [Brain-Games](https:/github.com/Evgenii-Prokofev/) - A console game consisting of a set of 5 mathematical problems that the player needs to solve.
+   - [Difference-Calculator](https:/github.com/Evgenii-Prokofev/) - A console utility that compares two files in JSON or YAML format and finds differences between them.
+
 *   ### Badges
 
 <b>My GitHub Stats</b>
