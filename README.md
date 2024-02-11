@@ -26,3 +26,8 @@ I've been learning to code for 1 years, after switching careers. I'm on my way t
                     </a>
    </p>
 
+*   ### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Evgenii-Prokofev"><img src="https://github-readme-stats.vercel.app/api?username=Evgenii-Prokofev&show_icons=true&hide=&title_color=444e59&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Evgenii-Prokofev's GitHub stats" /></a>
