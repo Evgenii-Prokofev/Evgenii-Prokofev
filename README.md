@@ -33,7 +33,7 @@ I've been learning to code in [Hexlet](https://ru.hexlet.io) since 2023, after s
    - [Brain-Games](https:/Evgenii-Prokofev/Brain-Games) - A console game consisting of a set of 5 mathematical problems that the player needs to solve.
    - [Difference-Calculator](https:/Evgenii-Prokofev/Difference-Calculator) - A console utility that compares two files in JSON or YAML format and finds differences between them.
    - [Page-Analyzer](https:/Evgenii-Prokofev/Page-analyzer) - This is a website written in Flask that analyzes the specified pages for SEO suitability.
-   - [Task-Manager](https:/Evgenii-Prokofev/Task-Manager) - 
+   - [Task-Manager](https:/Evgenii-Prokofev/Task-Manager) - A web-based task management application based on Python and Django framework. It allows you to set tasks, assign performers and change their statuses.
 
 *   ### Badges
 
